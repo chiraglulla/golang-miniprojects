@@ -1,2 +1,2 @@
 # url-shortner
-A simple URL shortner written in Golang.
+A simple HRML link parser written in Golang.
